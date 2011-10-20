@@ -1,0 +1,9 @@
+
+ + create a ballon with inkscape
+ + export as png using 120/160/240 as DPI (respectively ldpi/mdpi/hdpi)
+ + Open the PNGs  in Draw 9-patch and edit the border in order to obtain
+   the wanted effect
+ + recompile
+ + ???
+ + PROFIT!!!1!!
+ 
